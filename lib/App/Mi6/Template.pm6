@@ -10,6 +10,7 @@ gitignore => qq:to/EOF/,
 /resources/*.so
 /resources/*.dylib
 .precomp/
+*.swp
 EOF
 
 travis => qq:to/EOF/,
